@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # individual files
-/mnt/c/Users/crist/Documents/MLE-7/assignments/week-2-mle-api/secrets.py
+./assignments/week-2-mle-api/secrets.py
