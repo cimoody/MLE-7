@@ -28,7 +28,7 @@ def get_subreddit(display_name:str) -> Subreddit:
         user_agent=secrets.REDDIT_API_USER_AGENT
         )
     
-    subreddit = Subreddit(display_name) # YOUR CODE HERE
+    subreddit = reddit.subreddit(display_name) # YOUR CODE HERE
     return subreddit
 
 def get_comments(subreddit:Subreddit, limit:int=3) -> List[str]:
