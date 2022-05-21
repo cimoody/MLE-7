@@ -102,6 +102,6 @@ Then click `Create Repository`.
 ### That's it for now!  And so it begins.... :)
 
 
-## ^ ^
-##  `
-## \/
+#### ^ ^
+####  `
+#### \/
