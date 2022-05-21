@@ -1,0 +1,12 @@
+
+# # test4thB
+# REDDIT_API_CLIENT_ID='yCtBVmibeSrSSJ1yTka56A'
+# REDDIT_API_CLIENT_SECRET='Bra5Nae6SY8lRSRWqodljV3rQrU4wQ'
+# REDDIT_API_USER_AGENT='zombies4brains'
+# REDDIT_PASSWORD='R#Dp4ssnqwii?'
+# # eaglecam
+REDDIT_API_CLIENT_ID = 'l64ITdC7q_43Sy-1QBNhqg'
+REDDIT_API_CLIENT_SECRET = '6bWf-SF_AQGKAcLWaSuCh1COAJFx1w'
+REDDIT_API_USER_AGENT = '4thBrain: Class Assignment by u/ci-moody'
+REDDIT_API_USER_NAME = 'reddit_nest'
+# REDDIT_PASSWORD= 'R#Dp4ssnqwii?'
