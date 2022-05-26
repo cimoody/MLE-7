@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# mac
+.DS_Store
+
 # individual files
 ./assignments/week-2-mle-api/secrets.py
