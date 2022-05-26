@@ -130,3 +130,6 @@ dmypy.json
 
 # mac
 .DS_Store
+
+# individual files
+./assignments/week-2-mle-api/secrets.py
