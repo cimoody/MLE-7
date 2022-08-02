@@ -84,7 +84,7 @@ We will use [Prophet](https://facebook.github.io/prophet/) to predict stock mark
     import joblib
     import pandas as pd
     import yfinance as yf
-    from fbprophet import Prophet
+    from prophet import Prophet
 
     import argparse
 
